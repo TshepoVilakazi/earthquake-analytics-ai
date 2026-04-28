@@ -1,0 +1,12 @@
+feature,importance
+avg_depth_km,0.2342217920317101
+events_previous_day,0.163616593642723
+avg_magnitude,0.150229866016983
+max_depth_km,0.0794065526584771
+avg_magnitude_previous_day,0.0767606715059285
+month,0.07462627718659
+day,0.0635004406030571
+max_magnitude_previous_day,0.0612685634524189
+max_magnitude,0.0497932919172841
+day_of_week,0.0342129070587638
+tsunami_events,0.0123630439260641

@@ -1,0 +1,8 @@
+forecast_date,forecast_day,forecast_total_events,forecast_avg_magnitude,forecast_max_magnitude,forecast_avg_depth_km,forecast_max_depth_km,forecast_tsunami_events,risk_score,risk_label
+2024-12-31,Tuesday,378.0,1.66,7.3,24.72,642.98,0.0,0.0,Low Risk
+2025-01-01,Wednesday,378.0,1.66,7.3,24.72,642.98,0.0,0.0,Low Risk
+2025-01-02,Thursday,378.0,1.66,7.3,24.72,642.98,0.0,0.0,Low Risk
+2025-01-03,Friday,378.0,1.66,7.3,24.72,642.98,0.0,0.0,Low Risk
+2025-01-04,Saturday,378.0,1.66,7.3,24.72,642.98,0.0,0.0,Low Risk
+2025-01-05,Sunday,378.0,1.66,7.3,24.72,642.98,0.0,0.0,Low Risk
+2025-01-06,Monday,378.0,1.66,7.3,24.72,642.98,0.0,0.0,Low Risk
